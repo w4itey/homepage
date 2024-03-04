@@ -863,5 +863,10 @@
         "users": "Users",
         "recipes": "Recipes",
         "keywords": "Keywords"
+    },
+    "crowdsec": {
+        "bans": "Bans",
+        "captchas": "Captchas",
+        "rateLimits": "Rate Limits"
     }
 }
